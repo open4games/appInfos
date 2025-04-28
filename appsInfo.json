@@ -1,20 +1,22 @@
 [
-    {"digitalsolution":{
-      "id": "digitals:olution",
-      "name": "PokerMiniFun",
-      "developed_name": "PT. DIGITAL SOLUTION",
-      "email": "syifapayment@gmail.com",
-      "local": "Gp Reusep Bambong, Jalan Sanggeu-Rubee, Desa Rusep Bambong",
-      "country": "Indonesia"
+    {
+        "digitalsolution": {
+            "id": "digitals:olution",
+            "name": "PokerMiniFun",
+            "developed_name": "PT. DIGITAL SOLUTION",
+            "email": "syifapayment@gmail.com",
+            "local": "Gp Reusep Bambong, Jalan Sanggeu-Rubee, Desa Rusep Bambong",
+            "country": "Indonesia"
+        }
+    },
+    {
+        "daishujiheinfor": {
+            "id": "daishujiheinfor",
+            "name": "PokerMiniFun",
+            "email": "zhangxiaoguang@daishujiheinfor.shop",
+            "developed_name": "DAISHUJIHE INFORMATION SERVICES PTE.LTD",
+            "local": "60 PAYA LEBAR ROAD #12-03 PAYA LEBAR SQUARE Singapore 409051",
+            "country": "Singapore"
+        }
     }
-},
-   {"daishujiheinfor":{
-      "id": "daishujiheinfor",
-      "name": "PokerMiniFun",
-      "email": "zhangxiaoguang@daishujiheinfor.shop",
-      "developed_name": "DAISHUJIHE INFORMATION SERVICES PTE.LTD",
-      "local": "60 PAYA LEBAR ROAD #12-03 PAYA LEBAR SQUARE Singapore 409051",
-      "country": "Singapore"
-    }
-}
-  ]
+]
