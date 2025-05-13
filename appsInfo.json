@@ -5,7 +5,8 @@
         "developed_name": "PT. DIGITAL SOLUTION",
         "email": "syifapayment@gmail.com",
         "local": "Gp Reusep Bambong, Jalan Sanggeu-Rubee, Desa Rusep Bambong",
-        "country": "Indonesia"
+        "country": "Indonesia",
+        "date":"February 20, 2025"
     },
     "daishujiheinfor": {
         "id": "daishujiheinfor",
@@ -13,7 +14,8 @@
         "email": "zhangxiaoguang@daishujiheinfor.shop",
         "developed_name": "DAISHUJIHE INFORMATION SERVICES PTE.LTD",
         "local": "60 PAYA LEBAR ROAD #12-03 PAYA LEBAR SQUARE Singapore 409051",
-        "country": "Singapore"
+        "country": "Singapore",
+        "date":"February 20, 2025"
     },
     "texthome": {
         "id": "goodthing",
@@ -21,6 +23,7 @@
         "email": "good@gmail.com",
         "developed_name": "GOOD.LTD",
         "local": "London 409051",
-        "country": "England"
+        "country": "England",
+        "date":"April 30, 2025"
     }
 }
