@@ -14,5 +14,13 @@
         "developed_name": "DAISHUJIHE INFORMATION SERVICES PTE.LTD",
         "local": "60 PAYA LEBAR ROAD #12-03 PAYA LEBAR SQUARE Singapore 409051",
         "country": "Singapore"
+    },
+    "texthome": {
+        "id": "goodthing",
+        "name": "Poker Drill",
+        "email": "good@gmail.com",
+        "developed_name": "GOOD.LTD",
+        "local": "London 409051",
+        "country": "England"
     }
 }
