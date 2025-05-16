@@ -17,13 +17,13 @@
         "country": "Singapore",
         "date":"February 20, 2025"
     },
-    "texthome": {
-        "id": "goodthing",
+    "charm": {
+        "id": "charm",
         "name": "Poker Drill",
-        "email": "good@gmail.com",
-        "developed_name": "GOOD.LTD",
-        "local": "London 409051",
-        "country": "England",
+        "email": "officialcharmapp@gmail.com",
+        "developed_name": "Charm App",
+        "local": "582 POCKET-D DILSHAD GARDEN DILSHAD GARDEN Delhi - 110095",
+        "country": "India(IN)",
         "date":"April 30, 2025"
     },
     "baohan": {
